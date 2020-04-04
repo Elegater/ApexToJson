@@ -1,0 +1,348 @@
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Data.xlsx
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\ApexToJson.exe.config
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\ApexToJson.exe
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\ApexToJson.pdb
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\EPPlus.dll
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\EPPlus.xml
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\obj\Debug\ApexToJson.csprojAssemblyReference.cache
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\obj\Debug\ApexToJson.csproj.CoreCompileInputs.cache
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\obj\Debug\ApexToJson.csproj.CopyComplete
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\obj\Debug\ApexToJson.exe
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\obj\Debug\ApexToJson.pdb
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Newtonsoft.Json.pdb
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\502-Q8 Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\502-Q8 Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\AB8_KLYN Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\AB8_KLYN Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Antioch Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Antioch Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Arietis Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Arietis Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Atlas Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Atlas Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Aurora Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Aurora Tau.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Baqlor Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Baqlor Phi.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Barret Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Barret Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Boxer Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Boxer Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Buhloo Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Buhloo Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Cinnri Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Cinnri Tau.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Corsair Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Corsair Tau.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Czar Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Czar Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Dragonfly Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Dragonfly Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Elyon Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Elyon Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Essin Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Essin Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\EX04239 Phi.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\EX04239 Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Exarch Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Exarch Omega.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Fujin Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Fujin Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Geist Phi.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Geist Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Gladius Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Gladius Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Gorthaur Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Gorthaur Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Havoc Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Havoc Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Heechi Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Heechi Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Hime Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Hime Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Hunter Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Hunter Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Icarus Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Icarus Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Jericho Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Jericho Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Jn'dur Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Jn'dur Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Juggernaut Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Juggernaut Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Kada Veni Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Kada Veni Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Krillou Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Krillou Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Lokie Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Lokie Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Lorilou Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Lorilou Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Lyova Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Lyova Tau.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Marauder Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Marauder Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Mirage Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Mirage Omega.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Mist Star Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Mist Star Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\NC-150 Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\NC-150 Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\NC-271 Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\NC-271 Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Nimbus Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Nimbus Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Njörun Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Njörun Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Ogon Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Ogon Phi.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Oran Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Oran Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Orion Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Orion Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Phoenix Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Phoenix Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Photurius Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Photurius Tau.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Polaris Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Polaris Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Predator Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Predator Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Prime X Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Prime X Tau.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Proteus Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Proteus Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Proxymar Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Proxymar Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Qhelqod Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Qhelqod Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Razor VI Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Razor VI Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Saber Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Saber Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Sakura Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Sakura Phi.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Scuuxun Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Scuuxun Tau.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Shinova Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Shinova Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Shogun Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Shogun Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Sonah Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Sonah Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Tar'cah Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Tar'cah Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Tempest Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Tempest Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Tillat'Or Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Tillat'Or Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Torrent Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Torrent Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Trinity Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Trinity Phi.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Trireme Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Trireme Tau.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\UHB Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\UHB Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Valkyrie Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Valkyrie Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Vani Vith Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Vani Vith Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Veil Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Veil Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Von Braun Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Von Braun Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Vuxine Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Vuxine Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Widget Delta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Widget Tau.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Wrackr Alpha.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Wrackr Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Wraith Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Wraith Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\X-81 Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\X-81 Gamma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Xaniea Lambda.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Xaniea Tau.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Yigothu Omega.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Yigothu Sigma.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Yoth-hola Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Yoth-hola Epsilon.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Zephyr Beta.jpg
+D:\Documents\Google Drive\VS\Stuff\ApexToJson\ApexToJson\bin\Debug\Pics\Zephyr Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\502-Q8 Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\502-Q8 Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\AB8_KLYN Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\AB8_KLYN Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Antioch Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Antioch Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Arietis Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Arietis Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Atlas Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Atlas Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Aurora Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Aurora Tau.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Baqlor Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Baqlor Phi.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Barret Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Barret Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Boxer Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Boxer Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Buhloo Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Buhloo Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Cinnri Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Cinnri Tau.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Corsair Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Corsair Tau.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Czar Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Czar Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Dragonfly Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Dragonfly Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Elyon Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Elyon Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Essin Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Essin Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\EX04239 Phi.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\EX04239 Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Exarch Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Exarch Omega.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Fujin Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Fujin Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Geist Phi.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Geist Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Gladius Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Gladius Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Gorthaur Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Gorthaur Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Havoc Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Havoc Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Heechi Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Heechi Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Hime Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Hime Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Hunter Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Hunter Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Icarus Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Icarus Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Jericho Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Jericho Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Jn'dur Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Jn'dur Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Juggernaut Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Juggernaut Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Kada Veni Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Kada Veni Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Krillou Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Krillou Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Lokie Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Lokie Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Lorilou Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Lorilou Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Lyova Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Lyova Tau.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Marauder Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Marauder Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Mirage Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Mirage Omega.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Mist Star Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Mist Star Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\NC-150 Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\NC-150 Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\NC-271 Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\NC-271 Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Nimbus Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Nimbus Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Njörun Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Njörun Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Ogon Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Ogon Phi.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Oran Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Oran Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Orion Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Orion Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Phoenix Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Phoenix Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Photurius Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Photurius Tau.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Polaris Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Polaris Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Predator Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Predator Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Prime X Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Prime X Tau.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Proteus Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Proteus Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Proxymar Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Proxymar Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Qhelqod Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Qhelqod Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Razor VI Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Razor VI Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Saber Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Saber Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Sakura Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Sakura Phi.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Scuuxun Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Scuuxun Tau.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Shinova Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Shinova Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Shogun Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Shogun Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Sonah Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Sonah Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Tar'cah Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Tar'cah Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Tempest Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Tempest Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Tillat'Or Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Tillat'Or Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Torrent Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Torrent Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Trinity Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Trinity Phi.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Trireme Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Trireme Tau.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\UHB Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\UHB Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Valkyrie Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Valkyrie Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Vani Vith Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Vani Vith Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Veil Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Veil Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Von Braun Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Von Braun Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Vuxine Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Vuxine Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Widget Delta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Widget Tau.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Wrackr Alpha.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Wrackr Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Wraith Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Wraith Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\X-81 Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\X-81 Gamma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Xaniea Lambda.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Xaniea Tau.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Yigothu Omega.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Yigothu Sigma.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Yoth-hola Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Yoth-hola Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Zephyr Beta.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Pics\Zephyr Epsilon.jpg
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Data.xlsx
+D:\Git\ApexToJson\ApexToJson\bin\Debug\ApexToJson.exe.config
+D:\Git\ApexToJson\ApexToJson\bin\Debug\ApexToJson.exe
+D:\Git\ApexToJson\ApexToJson\bin\Debug\ApexToJson.pdb
+D:\Git\ApexToJson\ApexToJson\bin\Debug\EPPlus.dll
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Newtonsoft.Json.dll
+D:\Git\ApexToJson\ApexToJson\bin\Debug\EPPlus.xml
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Newtonsoft.Json.pdb
+D:\Git\ApexToJson\ApexToJson\bin\Debug\Newtonsoft.Json.xml
+D:\Git\ApexToJson\ApexToJson\obj\Debug\ApexToJson.csprojAssemblyReference.cache
+D:\Git\ApexToJson\ApexToJson\obj\Debug\ApexToJson.csproj.CoreCompileInputs.cache
+D:\Git\ApexToJson\ApexToJson\obj\Debug\ApexToJson.csproj.CopyComplete
+D:\Git\ApexToJson\ApexToJson\obj\Debug\ApexToJson.exe
+D:\Git\ApexToJson\ApexToJson\obj\Debug\ApexToJson.pdb
