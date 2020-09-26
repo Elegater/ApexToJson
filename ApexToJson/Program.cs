@@ -13,7 +13,7 @@ namespace ApexToJson
     {
         static void Main(string[] args)
         {
-            string filePath = "./Data.xlsx";
+            string filePath = "./Apexes.xlsx";
             int startRow = 2;
             int startCol = 1;
 
@@ -71,7 +71,8 @@ namespace ApexToJson
                     apexes.Add(new Apex(data[row, startCol].Text, data[row, startCol + 1].Text, data[row, startCol + 2].Text, data[row, startCol + 3].Text, data[row, startCol + 4].Text, data[row, startCol + 5].Text, data[row, startCol + 6].Text, data[row, startCol + 7].Text, data[row, startCol + 8].Text, data[row, startCol + 9].Text, data[row, startCol + 10].Text, data[row, startCol + 11].Text, data[row, startCol + 12].Text));
                 }
 
-                string output = "apexes = " + JsonConvert.SerializeObject(apexes);
+                JsonSerializerSettings settings = new JsonSerializerSettings();
+                string output = "apexes = " + JsonConvert.SerializeObject(apexes, Formatting.Indented);
 
                 File.WriteAllText("./Apexes.jsonp", output);
             }
